@@ -1,1 +1,1 @@
-print("Hello, I am doing class activity using git")
+print("I am learning Git")
